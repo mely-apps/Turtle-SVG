@@ -2,7 +2,7 @@
 
 ## Description
 
-This script allows you to convert Scalable Vector Graphics (SVG) files into Turtle draw commands. Turtle graphics is a popular way to introduce programming concepts to beginners, and it provides a simple way to draw shapes and patterns on a screen using a virtual "turtle".
+This script allows you to convert SVG files into Turtle draw commands. Turtle graphics is a popular way to introduce programming concepts to beginners, and it provides a simple way to draw shapes and patterns on a screen using a virtual "turtle".
 
 The script reads an SVG file and extracts the path data from it. It then converts the path data into a series of Turtle draw commands that can be executed by a Turtle graphics library. This enables you to take advantage of the rich graphics capabilities offered by SVG files and replicate them using the Turtle graphics library.
 
@@ -18,7 +18,7 @@ The script reads an SVG file and extracts the path data from it. It then convert
 
 ```
 1. Clone the repository:
-> git clone https://github.com/Tuanpluss02/Turtle-SVG.git
+> git clone https://github.com/mely-apps/Turtle-SVG.git
 
 2. Change into the project directory:
 > cd Turtle-SVG
@@ -49,8 +49,6 @@ Use this website: https://vectorizer.ai. **Do use this one, the code is meant to
 ```
 
 # Output
-
-![image](https://github.com/Tuanpluss02/turtle-svg/assets/82562559/fcc697cc-b3be-420c-98be-bafe71097a3e)
 
 
 ![image](https://github.com/Tuanpluss02/turtle-svg/assets/82562559/a199cf3d-bfae-4fc6-a0de-a86f7a3c011e)
